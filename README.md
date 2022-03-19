@@ -40,3 +40,10 @@ My portfolio is built upon both HTML and CSS with a small amount of JavaScript. 
 As this portfolio spans over various pages and sections, it is important to retain a consistent visual design/theme while both clearly and subtly separating its components. The language of HTML made this fairly straight forward as it is a simple, readable and comprehendible code. As an example, it is extremely important that the site translates to various devices and screen sizes. Within the initial html setup in the index.html file the code to control this is:
 
 <img width="900" alt="image" src="https://user-images.githubusercontent.com/99586803/159108830-1428cde8-b876-416a-ae61-8291b31b87b6.png">
+
+The image on the left shows the ‘hamburger’ menu in the top right corner of the landing page. The image on the right shows the sites menu/navigation section. Note that the hamburger has changed to an ‘x’ indicating to leave the navigation section and return ‘home’.
+
+The chosen colour design aim deliberately at both simplicity and emphasis. Dark and light contrasting text and background themes juxtaposed with simplicity stand out. However, tempting it may be to follow suit of other examples and implement a complex but beautiful page design, given the purpose of the assignment, the simplest solution may be the best. Lastly, the addition of a highlight colour (#16e0bd) ‘medium aquamarine’ breaks black and white monotony. 
+
+The various sections of the landing page (index.html) are separated by the inverse of these colours. The section following on from the ‘introduction’ is a stark visual change that allows for a clear separation of information. 
+
