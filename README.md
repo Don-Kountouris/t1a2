@@ -51,7 +51,7 @@ The chosen colour design aim deliberately at both simplicity and emphasis. Dark 
 
 The various sections of the landing page (index.html) are separated by the inverse of these colours. The section following on from the ‘introduction’ is a stark visual change that allows for a clear separation of information. 
 
-<img width="1303" alt="Screen Shot 2022-03-19 at 5 46 16 pm" src="https://user-images.githubusercontent.com/99586803/159111676-cb4f6acb-c0fe-42d3-8805-7a0ce0726b92.png">
+<img width="650" alt="Screen Shot 2022-03-19 at 5 46 16 pm" src="https://user-images.githubusercontent.com/99586803/159111676-cb4f6acb-c0fe-42d3-8805-7a0ce0726b92.png">
 
 Here, I reference the skills sections of many professional web developers and the descriptions they describe. For me, a focus in this assignment was to reveal more of myself rather than a projection of myself, thus I attempted to personalise the skills and what they mean to me or possibly mean to the user. The hamburger menu remains in the in the ‘introduction’ section and a ‘my work’ button is available now in the ‘services’ section allowing the user to reference the relevant examples of my previous work.
 
@@ -59,21 +59,21 @@ Here, I reference the skills sections of many professional web developers and th
 
 Following on from this section is the ‘Who I am’ section where the user can read a short history of who I am. Similar themes have remained consistent and as stated previously, an inverse of the colour theme has distinguished a new section. In addition, the layout has mirrored the ‘introduction’ section in order to avoid repeating sections while retaining a consistent theme. 
 
-<img width="1412" alt="Screen Shot 2022-03-19 at 5 50 01 pm" src="https://user-images.githubusercontent.com/99586803/159111939-5c882572-5e66-496e-8be3-cb1563162955.png">
+<img width="800" alt="Screen Shot 2022-03-19 at 5 50 01 pm" src="https://user-images.githubusercontent.com/99586803/159111939-5c882572-5e66-496e-8be3-cb1563162955.png">
 
 A ‘resume’ button is available linking a detailed curriculum vitae in pdf format as an extension of the ‘about me’ section. Both the ‘my work’ and ‘about me’ buttons expand and collapse when hovered over or are selected. Simple actions such as this are included in every area or element where either a link or shortcut is available.
 
-<img width="1075" alt="Screen Shot 2022-03-19 at 5 58 10 pm" src="https://user-images.githubusercontent.com/99586803/159112004-f117a991-d7c2-4d2c-b375-83bb5cb32871.png">
+<img width="900" alt="Screen Shot 2022-03-19 at 5 58 10 pm" src="https://user-images.githubusercontent.com/99586803/159112004-f117a991-d7c2-4d2c-b375-83bb5cb32871.png">
 
 The last section of the index.html is the ‘my work’ section. This allows a web developer the opportunity to showcase some of their previous work and examples. As a web developer candidate this portfolio is the first - of many - web sites I will develop as a graduate and professional. Many of the examples included here are not web sites I have created by code, rather they are an accumulation of ‘paid for’ website services designed to suit a business, one being one of my own. 
 
-<img width="1222" alt="Screen Shot 2022-03-19 at 5 59 48 pm" src="https://user-images.githubusercontent.com/99586803/159112057-f022e976-9572-4ac8-9455-243c54873b02.png">
+<img width="650" alt="Screen Shot 2022-03-19 at 5 59 48 pm" src="https://user-images.githubusercontent.com/99586803/159112057-f022e976-9572-4ac8-9455-243c54873b02.png">
 
 Similar to the coded actions of the buttons, the examples here expand and contract when selected. In addition, a fade action has been included in that as the image expands it becomes transparent in relation to the background colour, vice versa when deselected. These image examples link to their corresponding live websites. This addition was not a prerequisite of the assignment, however referencing many professional web developer portfolios it is an essential part of a portfolio. As my skills develop and as I create and deploy future websites, I will add these as part of my portfolio.
 
 At the bottom of this section are, as required, links to professional web accounts: Codepen, Linkedin and Github. The icons were sourced from Font Awesome located within the ‘footer’ section of the html.index.
 
-<img width="1095" alt="Screen Shot 2022-03-19 at 6 02 01 pm" src="https://user-images.githubusercontent.com/99586803/159112117-76f62847-9c78-4f0a-bd13-0e9308ea16c9.png">
+<img width="700" alt="Screen Shot 2022-03-19 at 6 02 01 pm" src="https://user-images.githubusercontent.com/99586803/159112117-76f62847-9c78-4f0a-bd13-0e9308ea16c9.png">
 
 We can see the complete html code that defines the footer section. This is another clear example of simplistic and readable code that can be easily broken down and understood:
 
@@ -83,7 +83,7 @@ Note: BEM (Block Element Modifier) is used throughout the html and css code. Thi
 
 Returning to the top of the portfolio, we now enter the menu where a list of index short cuts and external pages are available. Note that the hamburger style menu icon has transformed into an ‘X’, indicating how to return to the landing page.
 
-<img width="1064" alt="Screen Shot 2022-03-19 at 6 06 51 pm" src="https://user-images.githubusercontent.com/99586803/159112264-609955c4-fb97-4abf-9316-f32687916184.png">
+<img width="550" alt="Screen Shot 2022-03-19 at 6 06 51 pm" src="https://user-images.githubusercontent.com/99586803/159112264-609955c4-fb97-4abf-9316-f32687916184.png">
 
 There are two new editions that have yet to be explored in this list. ‘Home’, ‘My Services’, ‘About Me’ and ‘My Work’ are all short cuts to sections of the html.index. Whereas, ‘Blogs’ and ‘Contact’ are links to separate html pages. 
 
@@ -93,11 +93,11 @@ As a prerequisite of the assignment, a separate blogs page was added in order to
 
 This list is not the same ‘list’ as shown in the footer code and description, instead it is an ‘article’ list using the appropriate <article> tag. Separating the list of blogs within the article section allowed for the design sequential stack of articles including heading, authorship and date, blurb and image link to the referred article. If required, there could be an infinite number of blogs listed on this page and as shown the user can scroll though the various articles available.
   
-<img width="800" alt="Screen Shot 2022-03-19 at 6 10 08 pm" src="https://user-images.githubusercontent.com/99586803/159112358-fb488b0c-2b3a-440a-9a33-a0a8c06d2ab8.png">
+<img width="700" alt="Screen Shot 2022-03-19 at 6 10 08 pm" src="https://user-images.githubusercontent.com/99586803/159112358-fb488b0c-2b3a-440a-9a33-a0a8c06d2ab8.png">
 
 The last html page connected to the index.html is the ‘Contact’ page. Although it follows the familiar style and themes of its counterpart pages, the contact page has the least amount of text/information. Therefore, it is a very simple page with no more than the necessary details required.
 
-<img width="1032" alt="Screen Shot 2022-03-19 at 6 11 54 pm" src="https://user-images.githubusercontent.com/99586803/159112438-ae349c6c-7ef1-47d5-862b-bc93bee17313.png">
+<img width="550" alt="Screen Shot 2022-03-19 at 6 11 54 pm" src="https://user-images.githubusercontent.com/99586803/159112438-ae349c6c-7ef1-47d5-862b-bc93bee17313.png">
 
 Each page that branches out from the index.html can easily return to the home/landing page via the hamburger menu. Efficient and accessible navigation throughout a website, particularly a portfolio, is a key ingredient and to its success and this was a primary focus for the assignment.
 
@@ -106,9 +106,9 @@ SITEMAP
 
 Sitemaps are clear and structured layouts that provide planning for developers regarding information on a proposed website. Below are two versions; i) showing the index.html branches and what information they are intended to show and lead to, ii) shows the various pathways a user can navigate through on the website.
 
-<img width="1070" alt="Screen Shot 2022-03-19 at 6 14 38 pm" src="https://user-images.githubusercontent.com/99586803/159112524-154fab23-280c-4203-bca3-78e1ade3471a.png">
+<img width="700" alt="Screen Shot 2022-03-19 at 6 14 38 pm" src="https://user-images.githubusercontent.com/99586803/159112524-154fab23-280c-4203-bca3-78e1ade3471a.png">
 
-<img width="774" alt="Screen Shot 2022-03-19 at 6 15 46 pm" src="https://user-images.githubusercontent.com/99586803/159112566-4938ca8d-2ae8-4baa-86bc-846ffc9eb159.png">
+<img width="650" alt="Screen Shot 2022-03-19 at 6 15 46 pm" src="https://user-images.githubusercontent.com/99586803/159112566-4938ca8d-2ae8-4baa-86bc-846ffc9eb159.png">
 
 CHALLENGES
 
@@ -145,7 +145,7 @@ Font types:
 Colour scheme:
 -	https://coolors.co/ffffff-303030-16e0bd
 
-<img width="719" alt="Screen Shot 2022-03-19 at 6 17 23 pm" src="https://user-images.githubusercontent.com/99586803/159112625-cc078fa1-8f14-45db-92d3-08708c2ff1aa.png">
+<img width="350" alt="Screen Shot 2022-03-19 at 6 17 23 pm" src="https://user-images.githubusercontent.com/99586803/159112625-cc078fa1-8f14-45db-92d3-08708c2ff1aa.png">
 
 Inspirations:
 -	FreeCodeCamp.org : https://www.youtube.com/c/Freecodecamp
