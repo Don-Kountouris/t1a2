@@ -6,6 +6,10 @@ T1A2 – PORTFOLIO
 Don Kountouris
 11958
 
+DevDK - Portfolio
+https://t1a2-dkountouris.netlify.app/index.html
+
+
 INTRODUCTION
 
 The ‘T1A2 Portfolio Assignment’ was an excellent introduction into web development. If you had spoken to me at the beginning of this assignment my attitude would have been vastly different. I felt completely out of my depth and over my head in what I was in for. Now, at the tail end of the assignment, I have enjoyed the experience of learning how to use HTML and CSS together to create something both personal and purposeful. It has sparked a greater sense of enthusiasm in my learning to come.
@@ -27,7 +31,7 @@ TARGET AUDIENCE
 A Web Developer portfolio is an important addition to any marketing plan and can help forge new paths in a career. As a student this website is an assignment aimed at not only showcasing what I can currently achieve, but in addition how persistent, resourceful and hardworking I am. Although this is my first website creation, I am pleased with what I have created. I believe in time I will want to amend much of this site and perhaps erase it and start from scratch. There are problems, ideas and elements in this creation that I am both limited and frustrated with, but I understand things will change over time. Basically, my target audience is you.
 
 
-FUNCTINALITY / FEATURES
+FUNCTIONALITY / FEATURES
 
 As a student, it can be intimidating either referencing or resourcing the plethora of professional portfolios and detailed tutorials online. However, with some persistence and through a fog of trial and error, the basic language of computer science made sense and accomplishment.
 
@@ -35,3 +39,4 @@ My portfolio is built upon both HTML and CSS with a small amount of JavaScript. 
 
 As this portfolio spans over various pages and sections, it is important to retain a consistent visual design/theme while both clearly and subtly separating its components. The language of HTML made this fairly straight forward as it is a simple, readable and comprehendible code. As an example, it is extremely important that the site translates to various devices and screen sizes. Within the initial html setup in the index.html file the code to control this is:
 
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/99586803/159108830-1428cde8-b876-416a-ae61-8291b31b87b6.png">
