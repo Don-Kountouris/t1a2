@@ -150,7 +150,6 @@ Colour scheme:
 Inspirations:
 -	FreeCodeCamp.org : https://www.youtube.com/c/Freecodecamp
 -	DesignCourse : https://www.youtube.com/c/DesignCourse
--	
 
 
 Wireframe Editor:
